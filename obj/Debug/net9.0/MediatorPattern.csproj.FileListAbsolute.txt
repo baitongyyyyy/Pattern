@@ -1,0 +1,12 @@
+D:\MediatorPattern\obj\Debug\net9.0\MediatorPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\MediatorPattern\obj\Debug\net9.0\MediatorPattern.AssemblyInfoInputs.cache
+D:\MediatorPattern\obj\Debug\net9.0\MediatorPattern.AssemblyInfo.cs
+D:\MediatorPattern\obj\Debug\net9.0\MediatorPattern.csproj.CoreCompileInputs.cache
+D:\MediatorPattern\bin\Debug\net9.0\MediatorPattern.deps.json
+D:\MediatorPattern\bin\Debug\net9.0\MediatorPattern.dll
+D:\MediatorPattern\bin\Debug\net9.0\MediatorPattern.pdb
+D:\MediatorPattern\obj\Debug\net9.0\MediatorPattern.csproj.AssemblyReference.cache
+D:\MediatorPattern\obj\Debug\net9.0\MediatorPattern.dll
+D:\MediatorPattern\obj\Debug\net9.0\refint\MediatorPattern.dll
+D:\MediatorPattern\obj\Debug\net9.0\MediatorPattern.pdb
+D:\MediatorPattern\obj\Debug\net9.0\ref\MediatorPattern.dll

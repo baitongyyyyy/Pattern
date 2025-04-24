@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MediatorPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF254423-8673-74EA-3D6A-AD13379C5FE9}|MediatorPattern.csproj|d:\\mediatorpattern\\command\\sendmediator\\simplemediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF254423-8673-74EA-3D6A-AD13379C5FE9}|MediatorPattern.csproj|solutionrelative:command\\sendmediator\\simplemediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF254423-8673-74EA-3D6A-AD13379C5FE9}|MediatorPattern.csproj|d:\\mediatorpattern\\command\\createentity\\createentitycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF254423-8673-74EA-3D6A-AD13379C5FE9}|MediatorPattern.csproj|solutionrelative:command\\createentity\\createentitycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF254423-8673-74EA-3D6A-AD13379C5FE9}|MediatorPattern.csproj|d:\\mediatorpattern\\command\\createentity\\createentityhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF254423-8673-74EA-3D6A-AD13379C5FE9}|MediatorPattern.csproj|solutionrelative:command\\createentity\\createentityhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF254423-8673-74EA-3D6A-AD13379C5FE9}|MediatorPattern.csproj|d:\\mediatorpattern\\interfaces\\irequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF254423-8673-74EA-3D6A-AD13379C5FE9}|MediatorPattern.csproj|solutionrelative:interfaces\\irequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF254423-8673-74EA-3D6A-AD13379C5FE9}|MediatorPattern.csproj|d:\\mediatorpattern\\interfaces\\imediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF254423-8673-74EA-3D6A-AD13379C5FE9}|MediatorPattern.csproj|solutionrelative:interfaces\\imediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF254423-8673-74EA-3D6A-AD13379C5FE9}|MediatorPattern.csproj|d:\\mediatorpattern\\dependancyinjection\\mediarregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF254423-8673-74EA-3D6A-AD13379C5FE9}|MediatorPattern.csproj|solutionrelative:dependancyinjection\\mediarregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF254423-8673-74EA-3D6A-AD13379C5FE9}|MediatorPattern.csproj|d:\\mediatorpattern\\bahaviors\\loggingbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF254423-8673-74EA-3D6A-AD13379C5FE9}|MediatorPattern.csproj|solutionrelative:bahaviors\\loggingbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF254423-8673-74EA-3D6A-AD13379C5FE9}|MediatorPattern.csproj|d:\\mediatorpattern\\queries\\getentity\\getentityquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF254423-8673-74EA-3D6A-AD13379C5FE9}|MediatorPattern.csproj|solutionrelative:queries\\getentity\\getentityquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF254423-8673-74EA-3D6A-AD13379C5FE9}|MediatorPattern.csproj|d:\\mediatorpattern\\queries\\getentity\\getentityhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF254423-8673-74EA-3D6A-AD13379C5FE9}|MediatorPattern.csproj|solutionrelative:queries\\getentity\\getentityhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetEntityQuery.cs",
+              "DocumentMoniker": "D:\\MediatorPattern\\Queries\\GetEntity\\GetEntityQuery.cs",
+              "RelativeDocumentMoniker": "Queries\\GetEntity\\GetEntityQuery.cs",
+              "ToolTip": "D:\\MediatorPattern\\Queries\\GetEntity\\GetEntityQuery.cs",
+              "RelativeToolTip": "Queries\\GetEntity\\GetEntityQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T04:04:30.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetEntityHandler.cs",
+              "DocumentMoniker": "D:\\MediatorPattern\\Queries\\GetEntity\\GetEntityHandler.cs",
+              "RelativeDocumentMoniker": "Queries\\GetEntity\\GetEntityHandler.cs",
+              "ToolTip": "D:\\MediatorPattern\\Queries\\GetEntity\\GetEntityHandler.cs",
+              "RelativeToolTip": "Queries\\GetEntity\\GetEntityHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T04:01:22.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateEntityHandler.cs",
+              "DocumentMoniker": "D:\\MediatorPattern\\Command\\CreateEntity\\CreateEntityHandler.cs",
+              "RelativeDocumentMoniker": "Command\\CreateEntity\\CreateEntityHandler.cs",
+              "ToolTip": "D:\\MediatorPattern\\Command\\CreateEntity\\CreateEntityHandler.cs",
+              "RelativeToolTip": "Command\\CreateEntity\\CreateEntityHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T03:45:35.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoggingBehavior.cs",
+              "DocumentMoniker": "D:\\MediatorPattern\\Bahaviors\\LoggingBehavior.cs",
+              "RelativeDocumentMoniker": "Bahaviors\\LoggingBehavior.cs",
+              "ToolTip": "D:\\MediatorPattern\\Bahaviors\\LoggingBehavior.cs",
+              "RelativeToolTip": "Bahaviors\\LoggingBehavior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T03:44:49.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SimpleMediator.cs",
+              "DocumentMoniker": "D:\\MediatorPattern\\Command\\SendMediator\\SimpleMediator.cs",
+              "RelativeDocumentMoniker": "Command\\SendMediator\\SimpleMediator.cs",
+              "ToolTip": "D:\\MediatorPattern\\Command\\SendMediator\\SimpleMediator.cs",
+              "RelativeToolTip": "Command\\SendMediator\\SimpleMediator.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T03:34:53.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRequest.cs",
+              "DocumentMoniker": "D:\\MediatorPattern\\Interfaces\\IRequest.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IRequest.cs",
+              "ToolTip": "D:\\MediatorPattern\\Interfaces\\IRequest.cs",
+              "RelativeToolTip": "Interfaces\\IRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T03:30:50.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IMediator.cs",
+              "DocumentMoniker": "D:\\MediatorPattern\\Interfaces\\IMediator.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IMediator.cs",
+              "ToolTip": "D:\\MediatorPattern\\Interfaces\\IMediator.cs",
+              "RelativeToolTip": "Interfaces\\IMediator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T03:29:41.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateEntityCommand.cs",
+              "DocumentMoniker": "D:\\MediatorPattern\\Command\\CreateEntity\\CreateEntityCommand.cs",
+              "RelativeDocumentMoniker": "Command\\CreateEntity\\CreateEntityCommand.cs",
+              "ToolTip": "D:\\MediatorPattern\\Command\\CreateEntity\\CreateEntityCommand.cs",
+              "RelativeToolTip": "Command\\CreateEntity\\CreateEntityCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T03:27:50.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MediaRRegistration.cs",
+              "DocumentMoniker": "D:\\MediatorPattern\\DependancyInjection\\MediaRRegistration.cs",
+              "RelativeDocumentMoniker": "DependancyInjection\\MediaRRegistration.cs",
+              "ToolTip": "D:\\MediatorPattern\\DependancyInjection\\MediaRRegistration.cs",
+              "RelativeToolTip": "DependancyInjection\\MediaRRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T03:27:40.755Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
